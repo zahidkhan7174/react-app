@@ -1,0 +1,83 @@
+.popupModal{
+    background-color: #040b0f !important;
+  background-image: linear-gradient(160deg, #040b0f 0%, #19574c 100%) !important;
+  background-repeat: repeat repeat-x;
+}
+.sign-up{
+    position: absolute;
+    left: 88%;
+    top: 60px;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    background: black !important;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-width: 2px;
+    border-color: #4f3ed3;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.sign-up:hover{
+    border-width: 2px;
+    border-color: orangered;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+.close{
+    padding: 3px;
+    background-color: red;
+    border: 2px black;
+    color: #fff;
+    position: absolute;
+    left: 47.5%;
+    height: 40px;
+    width: 90px;
+    margin-top: 40px;
+    border-radius: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.close:hover{
+    background: #000;
+    font-weight: 100;
+    font-size: large;
+    color:red;
+}
+
+.submot{
+    color: white;
+    padding: 7px;
+    width: 100px;
+    background: black;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-width: 2px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.submot:hover{
+    border: 2px solid greenyellow;
+}
+
+.form-group{
+    display: block;
+}
+
+.new{
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+   padding: 5px;
+    margin-top: 7px
+}

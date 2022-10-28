@@ -1,0 +1,47 @@
+.why{
+    background-color: #cfcbe5;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    
+}
+
+.head{
+   
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    font-family: var(--font-family);
+   margin-left: 40px;
+        
+        
+}
+.ans{
+    font-size: 15px;
+    color: white;
+    align-items: flex-start;
+    margin: 50px;
+    font-family: var(--font-family);
+    
+}
+
+.r1{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    align-items: flex-start;
+    margin: 50px;
+    font-family: var(--font-family);
+    margin-bottom: 40px;
+}
+.reasons{
+    font-size: 20px;
+    color: rgb(112, 62, 132);
+    align-items: flex-start;
+    margin: 50px;
+    font-family: var(--font-family);
+}
+
+.p{
+    color: rgb(4, 6, 6);
+    margin-bottom: 10px;
+    max-width: 70%;
+}

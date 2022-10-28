@@ -1,0 +1,65 @@
+.form{
+    
+    background-color: #e4c6c6;
+;
+}
+
+input{
+    width: 30%;
+    height: 50px;
+    padding: 5px;
+    margin: 20px !important;
+    border: 1px solid blue;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+textarea{
+    width: 40%;
+    height: 170px;
+    padding: 5px;
+    margin: 20px !important;
+    border: 1px solid blue;
+    background-color: black;
+    color: white;
+    font-size: 23px;
+    font-family: var(--font-family);
+    margin-left: 30% !important;
+
+}
+
+.btnn{
+    width:auto;
+    height: auto;
+    padding: 5px;
+    margin: 20px !important;
+    border: 2px solid orangered;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-left: 48% !important;
+    
+}
+.btnn:hover{
+    border: 2px solid yellowgreen;
+}
+
+.name{
+    color: whitesmoke;
+    font-size: large;
+    margin-left: 35% !important;
+    
+}
+.email{
+    color: white;
+    font-size: large;
+    margin-left: 35% !important;
+}
+
+.name:hover{
+    border: 2px solid yellowgreen;
+}
+.email:hover{
+    border: 2px solid green;
+}
+   

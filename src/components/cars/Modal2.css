@@ -1,0 +1,12 @@
+.modalClass {  
+    text-align: center;  
+    margin-top: 100px;  
+  } 
+  .btn1{
+    color: white;
+    font-size: large;
+    font-family: var(--font-family);
+    background-color: blueviolet;
+    padding: 3px;
+    margin-bottom: 10px;
+  }

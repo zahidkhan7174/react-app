@@ -1,0 +1,54 @@
+.cards{
+  margin: 10px;
+  padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+
+.cards img{
+padding: 4px;
+min-height: 200px;
+max-height: 200px;
+min-width: 300px;
+margin-left: 50px;
+}
+
+.card11{
+  bottom: 5px;
+}
+
+.button{
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  border-width: 80px;
+  border: 1px solid orangered;
+  position: relative;
+  width: 100px;
+  height: 25px;
+  left: 50%;
+  margin-top: 50px;
+}
+.button:hover{
+  border: 2px groove greenyellow;
+}
+
+.card2{
+  border: 2px solid rgb(6, 6, 101);
+}
+.card2:hover{
+  border: 2px solid yellowgreen;
+}
+
+.form11, .form12, .form13{
+  max-width: 93%;
+}
+
+.form13 ::placeholder{
+  color: black;
+}
+
+.mb-3 label{
+  margin-top: 17px;
+}
